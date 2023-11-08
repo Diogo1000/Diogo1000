@@ -15,6 +15,6 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 ### Contato:
 <div>
-  <a href="https://www.linkedin.com/in/diogo-fulgencio-rocha-9aaa64284" target="_blank"><img alt= "Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/diogo-fulgencio-rocha-9aaa64284"><img alt= "Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
