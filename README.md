@@ -1,6 +1,6 @@
 ### Olá, eu sou o Diogo Rocha 👋🏻
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Sou desenvolvedor Backend e no momento estou cursando Análise e desenvolvimento de sistemas.
 
 ![Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo1000&show_icons=true&theme=radical)
 
