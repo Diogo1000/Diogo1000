@@ -1,6 +1,6 @@
 ### Olá, eu sou o Diogo Rocha 👋🏻
 
-Sou desenvolvedor com foco em Backend.
+Sou desenvolvedor Full Stack.
 
 ![Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo1000&show_icons=true&theme=radical)
 
